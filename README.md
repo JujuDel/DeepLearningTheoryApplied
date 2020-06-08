@@ -67,7 +67,7 @@ The choice of using ***batch gradient descent*** leads to the cost function bein
 
 The training and the results are as follows:
 
-![2_Costs_img](2_L-LayerNN/images/costs.png)
+![2_Costs_img](2_L-LayerNN/images/Costs.png)
 
 This network hasn't been tuned, feel free to tune it as you want (we are still over fitting the training set)! By just adding 3 layers to the first network tested on this cat dataset, the accuracy went up from 68.0% to **76.0 %** on the test set!
 
