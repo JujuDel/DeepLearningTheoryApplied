@@ -1,4 +1,4 @@
-# ProjectsJupyter
+# 2019 - Improving DeepLearning skills
 
 Some of these projects were born after having followed the specialization in Deep Learning offered by [deeplearning.ia](https://www.deeplearning.ai/) on Coursera.
 The aim is to carry out my own projects, from scratch, by improving my knowledge, implementations and explanations and taking into account the new knowledge acquired.
